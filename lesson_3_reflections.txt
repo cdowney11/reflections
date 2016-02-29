@@ -4,4 +4,5 @@ This help ensure that all your work is accessible regardless of where you are an
 
 Why might you want to always pull changes manually rather than having Git automatically stay up to date with your remote repository? You might not know exactly what youre pulling in, and it may not work exactly with what you are currently trying to do.
 
-
+Difference between forks, clones, branches. WHen would you use one instead of another?
+Forks are copying someone else's repository in GitHub to a new repository under your account on github. Clone is copying one repositry to another machine or account. Branches are a changes made to a repository that are not affecting the main working code.
